@@ -1,0 +1,121 @@
+{
+  "template": [
+    {
+      "src": "vaci.jpg",
+      "path": "Vaci",
+      "title": "قالب Vaci",
+      "des": "قالب Vaci هو قالب أعمال من صفحة واحدة.",
+      "type": "html",
+      "btnSale": {
+        "class": "free",
+        "value": "مجاني",
+        "lastValue": "15$"
+      },
+      "groupLang": {
+        "html": true,
+        "css": true,
+        "js": true
+      },
+      "free": true,
+      "new": false
+    },
+    {
+      "src": "links-page.jpg",
+      "path": "Links-Page",
+      "title": "صفحة روابط",
+      "des": "صفحة HTML لإضافة روابط تواصل إجتماعي أو روابط أخرى.",
+      "type": "html",
+      "btnSale": {
+        "class": "no-free",
+        "value": "5$",
+        "lastValue": ""
+      },
+      "groupLang": {
+        "html": true,
+        "css": true,
+        "js": true
+      },
+      "free": false,
+      "new":false
+    },
+    {
+      "src": "roboTemplate.png",
+      "path": "roboBot",
+      "title": "روبو بوت",
+      "des": "هو عباره عن بوت للرد على الأسئلة و الاستفسارات المتكررة, ويمكنك من خلاله انشاء بوت خاص بك.",
+      "type": "nuxtjs",
+      "btnSale": {
+        "class": "no-free",
+        "value": "10$",
+        "lastValue": "$30"
+      },
+      "groupLang": {
+        "html": true,
+        "css": true,
+        "js": true
+      },
+      "free": false,
+      "new": false
+    },
+    {
+      "src": "mylinks.png",
+      "path": "myLinks",
+      "title": "قالب روابطي",
+      "des": "قالب لإضافة ارقام وتحويلها الى روابط (اختصار الرابط برقم).",
+      "type": "nuxtjs",
+      "btnSale": {
+        "class": "no-free",
+        "value": "6$",
+        "lastValue": ""
+      },
+      "groupLang": {
+        "html": true,
+        "css": true,
+        "js": true
+      },
+      "free": false,
+      "new": false
+    },
+    {
+      "src": "linkplus.png",
+      "path": "Linkplus",
+      "title": "قالب لينك بلس | Linkplus",
+      "des": "روابط حساباتك او روابط اخرى, بشكل مميز وبسيط.",
+      "type": "nuxtjs",
+      "btnSale": {
+        "class": "no-free",
+        "value": "9$",
+        "lastValue": ""
+      },
+      "groupLang": {
+        "html": true,
+        "css": true,
+        "js": true
+      },
+      "free": true,
+      "new": true
+    }
+  ],
+
+  "designs": [
+    {
+      "src": "personal-page.png",
+      "path": "Personal-Page",
+      "title": "صفحة شخصية",
+      "des": "تصميم UI صفحة شخصية يمكنك عرض فيها اعمالك و مميزاتك.",
+      "btnSale": {
+        "value": "مجاني"
+      },
+      "free": true,
+      "new": false
+    }
+  ],
+  "articles": [
+    {
+      "src": "before-starting-html-project.png",
+      "path": "Before-Starting-Html-Project",
+      "title": "نصائح قبل بدأ مشروع HTML",
+      "new": false
+    }
+  ]
+}

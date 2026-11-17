@@ -1,0 +1,321 @@
+body {
+  transition: background 0.3s;
+}
+.dark {
+  background-color: #2a2837;
+  transition: background 0.3s;
+}
+
+
+.dark nav {
+  background-color: #3f3d56;
+}
+
+.dark .dark-mode-button {
+  color: #fff;
+  transition: 0.3s;
+}
+
+.dark .dark-mode-button:hover {
+  background-color: rgb(208 216 255 / 36%);
+}
+
+
+
+#Path_96, #Path_97,#Path_98,#Path_99,#Path_100,.header-div-info-Background, .move2 svg path:last-of-type,
+.move4 svg path,.h1-main-header,.c323E7D,.header-div-text p,.serve-header p ,#Rectangle_2,#Group_8 rect,.h2-title,.h2-title-other,.tep-info-div,
+.tep-info-div a h3,.dse-chiled-dev a h3,#Path_140, #Path_140,#Path_139,#Path_138, #Path_137, .go-page-des,#Path_44,#Path_45,#Path_46,#Path_47,#Path_48,
+#Path_49,#Path_50,#Path_51,#Path_52,#Path_53,.footer-text,#Path_54,#Path_55,#Path_56,#Path_57,#Path_58,.article-sect>div,.article-sect a,.footer-chiled h4,
+footer a,.div-copy,.background-nav,.my-tempalte-div,.text-template p:not(.dark .license p),.ul-features,.html-tag,.css-tag, .js-tag, .nuxtjs-tag,.no-tag,
+.preview,.preview:hover,.update-tmp,.template-div-text h1,.shadow-back,.buy,.buy:hover,.text-artcle ul, .text-artcle ul a,.text-template p:not(.dark .license p) a,
+.loading,#Path1,.body-bot,.bot-anmiton,.footer-bot input ,.footer-bot span,.documents-info .code
+{
+  transition: 0.3s;
+}
+
+.dark #Path_100,.dark #Path_99,.dark #Path_98,.dark #Path_97,.dark #Path_96,.dark .header-div-info-Background,
+.dark .move2 svg path:last-of-type,.dark .move4 svg path,.dark .h1-main-header,.dark .c323E7D,.dark .header-div-text p,
+.dark .btn-header .serv,.dark .serve-header p,.dark #Rectangle_2,.dark #Group_8 rect,.dark .h2-title, .dark .h2-title-other,
+.dark .tep-info-div,.dark  .tep-info-div a h3,.dark  .dse-chiled-dev a h3,.dark #Path_140,.dark #Path_139,.dark #Path_138,.dark #Path_137,.dark .go-page-des,
+.dark #Path_44,.dark #Path_45,.dark #Path_46,.dark #Path_47,.dark #Path_48,.dark #Path_49,.dark #Path_50,.dark #Path_51,.dark #Path_52,.dark #Path_53,
+.dark #Path_54,.dark #Path_55,.dark #Path_56,.dark #Path_57,.dark #Path_58,.dark .article-sect>div,.dark .article-sect a,.dark .footer-chiled h4
+.dark .footer-text,.dark footer a,.dark .div-copy,.dark .background-nav,.dark .my-tempalte-div,.dark .text-template p:not(.dark .license p),.dark .ul-features,
+.dark .html-tag,.dark .css-tag, .dark .js-tag,.dark .nuxtjs-tag,.dark .no-tag,.dark .preview,.dark .preview:hover,.dark .update-tmp,.dark .template-div-text h1,
+.dark .shadow-back,.dark .buy,.dark .buy:hover,.dark .text-artcle ul,.dark .text-artcle ul a,.dark .text-template p:not(.dark .license p) a,.dark .loading,
+.dark #Path1,.dark .body-bot,.dark .bot-anmiton,.dark .footer-bot input ,.dark .footer-bot span,.dark .documents-info .code
+{
+  transition:  0.3s;
+}
+
+.dark #Path_100,.dark #Path_58 {
+  fill: #3F3D56;
+}
+
+
+.dark #Path_99,.dark #Path_57{
+  fill: #39374E;
+}
+
+.dark #Path_98,.dark #Path_56{
+  fill: #343246;
+}
+
+.dark #Path_97,.dark #Path_55{
+  fill: #2F2D3E;
+}
+
+.dark #Path_96, .dark #Path_44,.dark #Path_49,.dark #Path_54{
+  fill: #2A2837;
+}
+
+
+
+.dark .header-div-info-Background {
+  background-color: #3F3D56;
+}
+
+
+.dark .move2 svg path:last-of-type {
+  fill: #fff;
+}
+
+.dark .move4 svg path{
+  stroke: #fff;
+}
+
+.dark .h1-main-header {
+  color: #fff;
+}
+
+
+.dark .c323E7D {
+  color: #fff;
+}
+
+.dark .header-div-text p {
+  color: #fff;
+}
+
+.dark .btn-header .serv {
+  box-shadow: 0 14px 25px rgb(63 61 86);
+}
+
+.dark .typed-cursor {
+  color: #fff;
+}
+
+.dark .serve-header p {
+  color: #fff;
+}
+
+.dark #Rectangle_2 {
+  fill: #3f3d56;
+}
+
+
+.dark #Group_8 rect {
+  fill: #fff;
+}
+
+.dark .h2-title {
+  color: #7288FE;
+}
+
+.dark .h2-title-other {
+  color:#3F3D56;
+}
+
+.dark .h2-title-other::before {
+  background-color: #3F3D56;
+}
+.dark .h2-title::before {
+  background-color: #7288FE;
+}
+
+.dark .tep-info-div {
+  background-color: #3f3d56;
+}
+
+.dark  .tep-info-div a h3,.dark  .dse-chiled-dev a h3 {
+  color: #7288FE;
+}
+
+.dark  .tep-info-div  p,.dark  .dse-chiled-dev  p {
+  color: #fff;
+}
+
+.dark #Path_140,.dark #Path_45,.dark #Path_50 {
+  fill: #3f3d56;
+}
+.dark #Path_139,.dark #Path_46,.dark #Path_51{
+  fill: #5a5ea6;
+}
+
+.dark #Path_138,.dark #Path_47,.dark #Path_52{
+  fill: #6470d2;
+}
+
+.dark .dark #Path_48 {
+fill: #7288FE;
+}
+
+.dark .go-page-des {
+  background-color: rgb(255 255 255 / 9%);
+  color: #fff;
+}
+
+.dark .footer-text {
+  background-color: #3f3d56;
+}
+
+
+.dark .article-sect>div {
+  background-color: #3f3d56;
+}
+
+.dark .article-sect a,.dark .footer-chiled h4{
+  color: #7288FE;
+}
+
+
+.dark footer a {
+  color: #fff;
+}
+
+.dark .div-copy {
+  border-top:2px dashed #fff;
+}
+
+.dark .background-nav {
+  background-color: #3f3d56;
+}
+
+
+.dark::-webkit-scrollbar-track , .dark .massegs-bot>div::-webkit-scrollbar-track{
+  background: #3f3d56;
+}
+
+
+.dark::-webkit-scrollbar-thumb:hover,.dark .massegs-bot>div::-webkit-scrollbar-thumb:hover {
+  background: #5a5ea6;
+}
+
+.dark .massegs-bot>div::-webkit-scrollbar-thumb {
+  background-color: #7288FE;
+}
+.dark .my-tempalte-div {
+  background-color: #3f3d56;
+}
+
+.dark .text-template p:not(.dark .license p),.dark .ul-features {
+  color: #fff;
+}
+
+.dark .html-tag,.dark .css-tag, .dark .js-tag,.dark .nuxtjs-tag,.dark .no-tag {
+  background-color: #2a2837;
+  color: #fff;
+}
+
+.dark .preview {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.dark .preview:hover {
+  background-color: #fff;
+  color: #2a2837;
+}
+
+.dark .update-tmp {
+  color: #fff;
+}
+
+.dark .template-div-text h1 {
+  border-radius: 10px;
+  padding: 10px 20px;
+  width: fit-content;
+  margin: 0 auto;
+  background-color: #2a2837;
+}
+
+
+.dark .shadow-back {
+  background-color: #343246;
+}
+
+.dark .buy {
+  border: 2px solid #7288fe;
+  color: #7288fe;
+}
+
+.dark .buy:hover {
+  background-color:#7288fe ;
+  color: #2a2837;
+}
+
+.dark .text-artcle ul,.dark .text-artcle ul a {
+  color: #7288fe;
+}
+
+
+.dark .text-template p:not(.dark .license p) a {
+  color: #7288fe;
+}
+
+.dark .loading {
+  background-color: #3F3D56;
+}
+
+.dark #Path1 {
+  fill: #fff;
+}
+
+
+.dark .dark-button-mobile {
+  background-color: #fff;
+  color: #3f3d56;
+}
+
+.dark .dark-button-mobile:hover {
+  background-color: #fff;
+  color: #3f3d56;
+}
+
+.dark .body-bot {
+  background-color: #343246;
+}
+
+.dark .bot-anmiton {
+  background-color: #2a2837;
+  color: #fff;
+}
+
+.dark .footer-bot input ,.dark .footer-bot span{
+  background-color: #3f3d56;
+  color: #fff;
+}
+
+.dark .div-update {
+  background-color: #2a2837;
+}
+
+.dark .update-a-but{
+  background-color: #3F3D56;
+}
+
+.dark .div-update .virgin,.dark .div-update .update-text {
+  color: #7288fe;
+}
+
+.dark .changes-update {
+  color: #fff;
+}
+
+.dark .back-ground-updates {
+  background-color: #2F2D3E;
+}
+
+.dark .documents-info .code {
+  background-color: #2a2837;
+  color: #fff;
+}

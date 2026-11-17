@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174.879" height="361.226" viewBox="0 0 174.879 361.226">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.394" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3f3d56"/>
+      <stop offset="1" stop-color="#6981ff"/>
+    </linearGradient>
+  </defs>
+  <g id="roboBot" transform="translate(-452.06 -271.331)">
+    <path id="Path_1" data-name="Path 1" d="M0,0H17.2V197.814H0Z" transform="translate(535.199 434.743)" fill="#6981ff"/>
+    <path id="Path_2" data-name="Path 2" d="M0,0H17.2V40.136H0Z" transform="translate(535.199 440.477)" fill="url(#linear-gradient)"/>
+    <path id="Path_3" data-name="Path 3" d="M0,0H174.879V174.879H0Z" transform="translate(452.06 271.331)" fill="#6981ff"/>
+    <path id="Path_4" data-name="Path 4" d="M28.669,0A28.669,28.669,0,1,1,0,28.669,28.669,28.669,0,0,1,28.669,0Z" transform="translate(515.133 334.403)" fill="#fff"/>
+    <path id="Path_5" data-name="Path 5" d="M15.768,0A15.768,15.768,0,1,1,0,15.768,15.768,15.768,0,0,1,15.768,0Z" transform="translate(529.466 348.737)"/>
+    <path id="Path_6" data-name="Path 6" d="M0,0H14.334V134.743H0Z" transform="translate(598.271 440.477)" fill="#6981ff"/>
+    <path id="Path_7" data-name="Path 7" d="M0,0H14.334V134.743H0Z" transform="translate(474.994 434.743)" fill="#6981ff"/>
+  </g>
+</svg>
